@@ -34,4 +34,13 @@ img{
 .b:hover{
     background-color: rgb(255, 0, 0);
     color: rgb(45, 13, 224);
+}/* ixtiyor */
+.mmm{
+    height: 260px;
+    width: 255px;
+}
+.mmm:hover{
+    opacity: 1;
+    background-color: rgb(184, 100, 100);
+    
 }
