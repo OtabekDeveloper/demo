@@ -44,3 +44,22 @@ img{
     background-color: rgb(184, 100, 100);
     
 }
+
+
+/* aaaaaaaaaaaaaaaaaaaa */
+.car{
+    width: 255px;
+  
+  
+    display: inline-block;
+    margin: 20px;
+    border: 2px solid red;
+}
+.rasm{
+    width: 255px;
+    border-radius:0px !important
+    
+}
+.body{
+    text-align: center;
+}
