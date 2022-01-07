@@ -172,3 +172,43 @@ a{
        justify-content: center;
        align-items: center;
    }
+
+
+   
+.adds {
+    width: 255px;
+    text-align: center;  
+    display: inline-block;  
+    margin: 30px;
+    background-color:wheat
+}
+
+.adds img {
+    border-radius: 5px;
+}
+
+.add1 button:hover {
+    cursor:pointer;
+    background-color:red;
+    color:wheat;
+    border: none;
+    padding: 6px 18px;
+    border-radius:5px;
+    -webkit-border-radius:5px;
+    -moz-border-radius:5px;
+    -ms-border-radius:5px;
+    -o-border-radius:5px;
+}
+
+.add1 button {
+    cursor:pointer;
+    background-color:rgb(253, 219, 154);
+    color:red;
+    border: none;
+    padding: 6px 18px;
+    border-radius:5px;
+    -webkit-border-radius:5px;
+    -moz-border-radius:5px;
+    -ms-border-radius:5px;
+    -o-border-radius:5px;
+}
